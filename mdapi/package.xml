@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SupportStatus</fullName>
+    <description>Cases Support</description>
+    <types>
+        <members>TicketWithSupportCtrl</members>
+        <members>TicketWithSupportCtrl_Test</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>AutoRabitSupportStatus</members>
+        <members>CreateCaseVF</members>
+        <members>SearchCaseVF</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>Case.EngineeringReqNumber__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>AutorabitLogo</members>
+        <name>StaticResource</name>
+    </types>
+    <version>40.0</version>
+</Package>
