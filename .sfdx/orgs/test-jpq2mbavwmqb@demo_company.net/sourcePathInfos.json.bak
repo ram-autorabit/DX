@@ -2,14 +2,14 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1501594036750,
             "changeTime": 1501594036750,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1501594036750,
             "changeTime": 1501594036750,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1501594618780,
             "changeTime": 1501594618780,
             "contentHash": "e41443c3c6e2ee048951835412fd37ecdd01af07",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -47,14 +47,14 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1501594036750,
             "changeTime": 1501594036750,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +62,14 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\classes",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1501594618764,
             "changeTime": 1501594618764,
             "contentHash": "9508fc8b0961629d6e44bf2bbf8cd258404bbcd4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -77,14 +77,14 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\classes\\TicketWithSupportCtrl.cls",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\classes\\TicketWithSupportCtrl.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2917,
             "modifiedTime": 1501594618762,
             "changeTime": 1501594618762,
             "contentHash": "e732fb98e211127824de5196008da8ac8b83a5e6",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -92,14 +92,14 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\classes\\TicketWithSupportCtrl.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\classes\\TicketWithSupportCtrl.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1501594618762,
             "changeTime": 1501594618762,
             "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -107,14 +107,14 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\classes\\TicketWithSupportCtrl_Test.cls",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\classes\\TicketWithSupportCtrl_Test.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 684,
             "modifiedTime": 1501594618764,
             "changeTime": 1501594618764,
             "contentHash": "f57abd889e84b08fbb80a6330ac7f9992551419d",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -122,14 +122,14 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\classes\\TicketWithSupportCtrl_Test.cls-meta.xml",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\classes\\TicketWithSupportCtrl_Test.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1501594618763,
             "changeTime": 1501594618763,
             "contentHash": "734b048ce41db916f2088ea40ecdc25c420434ef",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -137,14 +137,14 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\objects",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1501594618773,
             "changeTime": 1501594618773,
             "contentHash": "9254c4bba00f5ff69304a7921d3118fcbac7e6b8",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -152,14 +152,14 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\objects\\Case",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\objects\\Case",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1501594618775,
             "changeTime": 1501594618775,
             "contentHash": "7c277a4a3fea161827da03d3f2c58591e969e632",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -167,14 +167,14 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\objects\\Case\\Case.object-meta.xml",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\objects\\Case\\Case.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 103,
             "modifiedTime": 1501594618775,
             "changeTime": 1501594618775,
             "contentHash": "280bec81c7b70604977205601148d4a33006ab0f",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -182,14 +182,14 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\objects\\Case\\fields",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\objects\\Case\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1501594618775,
             "changeTime": 1501594618775,
             "contentHash": "b9b36c39212e5e77228b289e2ddc4b53029ec128",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -197,14 +197,14 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\objects\\Case\\fields\\EngineeringReqNumber__c.field-meta.xml",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\objects\\Case\\fields\\EngineeringReqNumber__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 473,
             "modifiedTime": 1501594618775,
             "changeTime": 1501594618775,
             "contentHash": "70d9703777ebb511bbb6cdfedf68605f006bd45a",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -212,29 +212,27 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1501594618780,
-            "changeTime": 1501594618780,
-            "contentHash": "79376051306871070fd533f2b69759309f9e29a3",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1501686757128,
+            "changeTime": 1501686757128,
+            "contentHash": "a4876629a1ec36c223b2c3463bc7118d9f80ba96"
         }
     ],
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\AutoRabitSupportStatus.page",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\AutoRabitSupportStatus.page",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2243,
             "modifiedTime": 1501594618777,
             "changeTime": 1501594618777,
             "contentHash": "3f1b5820e35bc48ee9fc08bda2c752ca1666c1c4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -242,14 +240,14 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\AutoRabitSupportStatus.page-meta.xml",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\AutoRabitSupportStatus.page-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 298,
             "modifiedTime": 1501594618777,
             "changeTime": 1501594618777,
             "contentHash": "ba1d63b2cd519b6467d58fa62b70173237cf9587",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -257,14 +255,14 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\CreateCaseVF.page",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\CreateCaseVF.page",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 6370,
             "modifiedTime": 1501594618779,
             "changeTime": 1501594618779,
             "contentHash": "9e7a6a41218db04be480fa7d5b0c82e42c0ab49c",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -272,14 +270,14 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\CreateCaseVF.page-meta.xml",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\CreateCaseVF.page-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 288,
             "modifiedTime": 1501594618778,
             "changeTime": 1501594618778,
             "contentHash": "298520168e93417018c2abc236cce55fccf44ea0",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -287,14 +285,14 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\SearchCaseVF.page",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\SearchCaseVF.page",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 5559,
             "modifiedTime": 1501594618780,
             "changeTime": 1501594618780,
             "contentHash": "a8b34918119ddc25c153c3faba97d8c0aa882bf7",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -302,14 +300,14 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\SearchCaseVF.page-meta.xml",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\SearchCaseVF.page-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 288,
             "modifiedTime": 1501594618779,
             "changeTime": 1501594618779,
             "contentHash": "c97bf2c0a198db10ea6c3b9dbdcff5bfe29fcb66",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -317,14 +315,14 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\staticresources",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\staticresources",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1501594618781,
             "changeTime": 1501594618781,
             "contentHash": "7da8e5ff966d9b09713dfa67c7efacced90ae8ef",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -332,14 +330,14 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\staticresources\\AutorabitLogo.resource",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\staticresources\\AutorabitLogo.resource",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 5156,
             "modifiedTime": 1501594618781,
             "changeTime": 1501594618781,
             "contentHash": "d38c893abbe5cbae50250c1279772f6f73e1a369",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -347,14 +345,14 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\staticresources\\AutorabitLogo.resource-meta.xml",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\staticresources\\AutorabitLogo.resource-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 249,
             "modifiedTime": 1501594618780,
             "changeTime": 1501594618780,
             "contentHash": "1dec80c5a711d19115d115babbe5db5c45695834",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -362,16 +360,68 @@
     [
         "D:\\AutoRabit\\DX\\Projects\\DX1",
         {
-            "state": "n",
             "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1501594545714,
             "changeTime": 1501594545714,
             "contentHash": "59f233f37260d7120bbbc4cfd11005dbdfed6c23",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\Test1.page-meta.xml",
+        {
+            "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\Test1.page-meta.xml",
+            "isDirectory": false,
+            "size": 281,
+            "modifiedTime": 1501682742197,
+            "changeTime": 1501682742197,
+            "contentHash": "fcec15f44b1201afeac0f7e7fc416cbdd646d02e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\Test1.page",
+        {
+            "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\Test1.page",
+            "isDirectory": false,
+            "size": 164,
+            "modifiedTime": 1501682742198,
+            "changeTime": 1501682742198,
+            "contentHash": "1da39a8217ae203343495260ac27f79112281306",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\Test2.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\Test2.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 281,
+            "modifiedTime": 1501686757128,
+            "changeTime": 1501686757128,
+            "contentHash": "27d5664cecb4614fdc20ee57d26344f12396b758"
+        }
+    ],
+    [
+        "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\Test2.page",
+        {
+            "state": "u",
+            "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\Test2.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 164,
+            "modifiedTime": 1501686757129,
+            "changeTime": 1501686757129,
+            "contentHash": "1da39a8217ae203343495260ac27f79112281306"
         }
     ]
 ]
