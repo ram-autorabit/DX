@@ -1,0 +1,114 @@
+[
+    [
+        "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app",
+        {
+            "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1502446097493,
+            "changeTime": 1502446097493,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main",
+        {
+            "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1502446097493,
+            "changeTime": 1502446097493,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1502446210247,
+            "changeTime": 1502446210247,
+            "contentHash": "2270d5c541f734a0f96529fc89b4af958ffb3dda"
+        }
+    ],
+    [
+        "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1502446097494,
+            "changeTime": 1502446097494,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\AutoRabit\\DX\\Projects\\DX1",
+        {
+            "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1502446141759,
+            "changeTime": 1502446141759,
+            "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\test3.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\test3.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 281,
+            "modifiedTime": 1502446210248,
+            "changeTime": 1502446210248,
+            "contentHash": "0cdb05387d5acc783106c47be97fe6945edaac8f"
+        }
+    ],
+    [
+        "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\test3.page",
+        {
+            "state": "u",
+            "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages\\test3.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 164,
+            "modifiedTime": 1502446210248,
+            "changeTime": 1502446210248,
+            "contentHash": "1da39a8217ae203343495260ac27f79112281306"
+        }
+    ],
+    [
+        "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages",
+        {
+            "state": "u",
+            "sourcePath": "D:\\AutoRabit\\DX\\Projects\\DX1\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1502446210248,
+            "changeTime": 1502446210248,
+            "contentHash": "0fbe9427430ae5358800006eba95728c0b639127"
+        }
+    ]
+]
